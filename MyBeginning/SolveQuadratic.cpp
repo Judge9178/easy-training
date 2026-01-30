@@ -15,7 +15,7 @@ int main() {
 	else {
 		printf("wrong\n");
 	}
-	return 0;
+	return 0;//test1
 
 
 
